@@ -1,7 +1,7 @@
 # atgi.sh
 It stands for Android Termux Geyser Installer
 
-This script is made to download latest versions of OpenJDK and Geyser, if you wish to use old versions, please manually setup using the instructions from Offical Geyser GitHub
+This script is used to download latest versions of OpenJDK and Geyser, if you wish to use old versions, please manually setup using the instructions from Offical Geyser GitHub
 
 This is an automated script that installs GeyserMC for your Android Termux
 
