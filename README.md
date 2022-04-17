@@ -15,5 +15,5 @@ Script v.0.2 - Comming Soon!
 
 # USAGE:
 ```bash
-wget . && bash atgi.sh
+wget https://raw.githubusercontent.com/JayeshRocks/Termux-Geyser-Installer/main/atgi.sh && bash atgi.sh
 ```
