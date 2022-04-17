@@ -8,13 +8,22 @@ echo "Installing..."
 
 mkdir GeyserMC
 cd GeyserMC
+
+echo ""
+echo "------------------------------------------"
+echo "Updating your packages and repositories..."
+echo "------------------------------------------"
+echo ""
+
+sleep 3
+
 pkg update -y
 pkg upgrade -y
 
 echo ""
-echo "---------------------"
-echo "Installing OpenJDK-17"
-echo "---------------------"
+echo "------------------------"
+echo "Installing OpenJDK-17..."
+echo "------------------------"
 echo ""
 
 sleep 3
@@ -22,9 +31,9 @@ sleep 3
 pkg install openjdk-17 -y
 
 echo ""
-echo "----------------------"
-echo "Downloading Geyser.jar"
-echo "----------------------"
+echo "-------------------------"
+echo "Downloading Geyser.jar..."
+echo "-------------------------"
 echo ""
 
 sleep 3
