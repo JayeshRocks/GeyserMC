@@ -32,7 +32,7 @@ sleep 3
 wget https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/standalone/target/Geyser.jar
 
 
-echo "Script was successfull, access Geyser anytime by running 'cd Geyser and then java -jar Geyser.jar' "
+echo "Script was successfull, access Geyser anytime by running 'cd Geyser and then java -jar Geyser.jar'"
 
 echo ""
 echo "------------------"
