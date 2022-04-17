@@ -11,7 +11,7 @@ GeyserMC is a program that lets minecraft bedrock clients connect to Minecraft J
 # Script Versions:
 Script v.0.1 - Downloads OpenJDK-17 and latest Geyser.jar
 
-Script v.0.2 - Will release in near future, when changes our required to script
+Script v.0.2 - Will release in near future, when changes are required to script
 
 # USAGE:
 
