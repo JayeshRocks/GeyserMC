@@ -7,6 +7,7 @@ Geyser is a program that lets minecraft bedrock clients connect to Minecraft Jav
 
 # Script Versions:
 Script v.0.1 - Contains OpenJDK-17 and Downloads Latest Geyser.jar
+
 Script v.0.2 - Comming Soon!
 
 # USAGE:
