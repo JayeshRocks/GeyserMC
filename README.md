@@ -1,6 +1,7 @@
 # atgi.sh
 It stands for Android Termux Geyser Installer
-T
+
+
 This is an automated script that installs GeyserMC for your Android Termux
 
 # GeyserMC
