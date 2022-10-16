@@ -50,4 +50,4 @@ echo ""
 
 sleep 3
 
-java -jar Geyser.jar
+java -jar Geyser-Standalone.jar
