@@ -1,13 +1,12 @@
 #!/bin/sh
 
-echo "Script v.0.1"
-echo "This script will install and run GeyserMC for Android Termux..."
+echo ""
+echo "This script will install and run GeyserMC for Android Termux in the current directory!..."
 echo "Continuing Install in 5 seconds..."
+echo ""
 sleep 5
 echo "Installing..."
-
-mkdir GeyserMC
-cd GeyserMC
+sleep 1
 
 echo ""
 echo "------------------------------------------"
@@ -15,7 +14,7 @@ echo "Updating your packages and repositories..."
 echo "------------------------------------------"
 echo ""
 
-sleep 3
+sleep 2
 
 pkg update -y
 pkg upgrade -y
@@ -26,21 +25,23 @@ echo "Installing OpenJDK-17..."
 echo "------------------------"
 echo ""
 
-sleep 3
+sleep 2
 
 pkg install openjdk-17 -y
 
 echo ""
 echo "-------------------------"
-echo "Downloading Geyser.jar..."
+echo "Downloading Geyser Jar..."
 echo "-------------------------"
 echo ""
 
-sleep 3
+test -d "GeyserMC" && echo "Found GeyserMC directory already thus updating Geyser Jar" && sleep 2 && cd GeyserMC && rm -r *.jar && wget https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/standalone/build/libs/Geyser-Standalone.jar && echo "Script Updated Geyser Jar, access Geyser anytime by running 'cd GeyserMC && java -jar Geyser-Standalone.jar'" && exit
+
+sleep 2
 
 wget https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/standalone/build/libs/Geyser-Standalone.jar
 
-echo "Script was successfull, access Geyser anytime by running 'cd GeyserMC and then java -jar Geyser.jar'"
+echo "Script installed Geyser Jar, access Geyser anytime by running 'cd GeyserMC && java -jar Geyser-Standalone.jar'"
 
 echo ""
 echo "------------------"
@@ -48,6 +49,6 @@ echo "Starting Geyser..."
 echo "------------------"
 echo ""
 
-sleep 3
+sleep 2
 
 java -jar Geyser-Standalone.jar
