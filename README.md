@@ -17,5 +17,5 @@ Termux Official GitHub Download(s): https://github.com/termux/termux-app/release
 
 # Usage:
 ```bash
-pkg install wget && wget https://raw.githubusercontent.com/JayeshRocks/Termux-Geyser-Installer/main/atgi.sh && bash atgi.sh
+pkg update -y && pkg upgrade -y && pkg install wget && wget https://raw.githubusercontent.com/JayeshRocks/Termux-Geyser-Installer/main/atgi.sh && bash atgi.sh
 ```
