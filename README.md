@@ -10,5 +10,5 @@ GeyserMC is a program that lets minecraft bedrock clients connect to Minecraft J
 
 # Usage:
 ```bash
-wget https://raw.githubusercontent.com/JayeshRocks/Termux-Geyser-Installer/main/atgi.sh && bash atgi.sh
+pkg install wget && wget https://raw.githubusercontent.com/JayeshRocks/Termux-Geyser-Installer/main/atgi.sh && bash atgi.sh
 ```
