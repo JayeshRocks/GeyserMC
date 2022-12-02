@@ -39,6 +39,9 @@ test -d "GeyserMC" && echo "Found GeyserMC directory already thus updating Geyse
 
 sleep 3
 
+mkdir GeyserMC
+cd GeyserMC
+
 wget https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/lastSuccessfulBuild/artifact/bootstrap/standalone/build/libs/Geyser-Standalone.jar
 
 echo "Script installed Geyser Jar, access Geyser anytime by running 'cd GeyserMC && java -jar Geyser-Standalone.jar'"
