@@ -25,7 +25,7 @@
 
 ### - [Velocity](https://docs.papermc.io/velocity)
 
-### - ViaProxy
+### - [ViaProxy](https://github.com/ViaVersion/ViaProxy/blob/main/README.md)
 
 > You can click on the names to check out the official documentations for the respective softwares and click [here](https://wiki.geysermc.org/geyser/setup/) to view GeyserMC's official setup documentation page.
 
