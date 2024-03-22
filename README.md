@@ -11,23 +11,24 @@
 > How to choose which plugin type to use from the [downloads](https://geysermc.org/download) page?
 > There are at the moment the following packages compatible to use with GeyserMC:
 
-### - [Bungeecord](https://www.spigotmc.org/wiki/about-bungeecord/)
+### - [Bungeecord](https://www.spigotmc.org/wiki/about-bungeecord/) // [Youtube Video](https://www.youtube.com/watch?v=zbhZUhdLs44&pp=ygUQc2V0dXAgYnVuZ2VlY29yZA%3D%3D)
 
-### - [Fabric](https://fabricmc.net/#:~:text=Fabric%20Loader%20A%20flexible%20platform,easily%20develop%20and%20debug%20mods.)
+### - [Fabric](https://fabricmc.net/#:~:text=Fabric%20Loader%20A%20flexible%20platform,easily%20develop%20and%20debug%20mods.) // [Youtube Video](https://www.youtube.com/watch?v=DvmNAyuJ9WI&pp=ygUMc2V0dXAgZmFicmlj)
 
-### - [NeoForge](https://www.curseforge.com/minecraft/modpacks/neo-force)
+### - [NeoForge](https://www.curseforge.com/minecraft/modpacks/neo-force) // [Youtube Video](https://www.youtube.com/watch?v=ibZGQMoq6-8&pp=ygUOc2V0dXAgbmVvZm9yZ2U%3D)
 
-### - [Paper](https://docs.papermc.io/paper)
+### - [Paper](https://docs.papermc.io/paper) // [Youtube Video](https://www.youtube.com/watch?v=BQX3oHjkwBw&pp=ygUNc2V0dXAgcGFwZXJtYw%3D%3D)
 
-### - [Spigot](https://www.spigotmc.org/)
+### - [Spigot](https://www.spigotmc.org/) // [Youtube Video](https://www.youtube.com/watch?v=RgutSM9wwW0&pp=ygUMc2V0dXAgc3BpZ290)
 
-### - [Standalone](https://wiki.geysermc.org/geyser/setup/)
+### - [Standalone](https://wiki.geysermc.org/geyser/setup/) // [Youtube Video](https://youtu.be/jQ2rv7asgwQ?si=qLzTaaBRS-6ANRM6)
 
-### - [Velocity](https://docs.papermc.io/velocity)
+### - [Velocity](https://docs.papermc.io/velocity) // [Youtube Video](https://www.youtube.com/watch?v=AC0GNcmWd7Y&pp=ygURc2V0dXAgdmVsb2NpdHkgbWM%3D)
 
-### - [ViaProxy](https://github.com/ViaVersion/ViaProxy/blob/main/README.md)
+### - [ViaProxy](https://github.com/ViaVersion/ViaProxy/blob/main/README.md) // [Youtube Video](https://www.youtube.com/watch?v=FBzGqDFgxXQ&pp=ygURc2V0dXAgdmlhcHJveHkgbWM%3D)
 
 > You can click on the names to check out the official documentations for the respective softwares and click [here](https://wiki.geysermc.org/geyser/setup/) to view GeyserMC's official setup documentation page.
+> Alternatively you can click the youtube links to view recommended setup instructional videos
 
 # Termux:
 
@@ -37,8 +38,8 @@
 
 ### Click to redirect to the official [Termux Official GitHub Download(s)](https://github.com/termux/termux-app/releases)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
-## Please run the following beforehand:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
+Please run the following beforehand:
 ```
 
 ```
