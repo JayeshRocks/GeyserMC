@@ -28,18 +28,18 @@
 ### - [ViaProxy](https://github.com/ViaVersion/ViaProxy/blob/main/README.md) // [Youtube Video](https://www.youtube.com/watch?v=FBzGqDFgxXQ&pp=ygURc2V0dXAgdmlhcHJveHkgbWM%3D)
 
 > You can click on the names to check out the official documentations for the respective softwares and click [here](https://wiki.geysermc.org/geyser/setup/) to view GeyserMC's official setup documentation page.
-> Alternatively you can click the youtube links to view recommended setup instructional videos
+> Alternatively you can click the youtube links to view recommended setup instructional videos.
 
 # Termux:
 
 ## Recommended to have an arm-32 upto date termux from official GitHub to avoid issues like phantom killing (Android 12 has a background process limiter called the Phantom Process Killer that kills app processes that use too many CPU resources or system resources. This can cause the error "Process completed (signal 9) - press Enter" in Termux.), etc.
 
-### Click to redirect to the official [Termux Official GitHub Respository](https://github.com/termux)
+Click to redirect to the official [Termux Official GitHub Respository](https://github.com/termux)
 
-### Click to redirect to the official [Termux Official GitHub Download(s)](https://github.com/termux/termux-app/releases)
+Click to redirect to the official [Termux Official GitHub Download(s)](https://github.com/termux/termux-app/releases)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
-Please run the following beforehand:
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
+## Please run the following beforehand:
 ```
 
 ```
