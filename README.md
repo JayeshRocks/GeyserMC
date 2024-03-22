@@ -40,7 +40,8 @@ Click to redirect to the official [Termux Official GitHub Download(s)](https://g
 
 ---
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+Usage)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+Usage)](https://git.io/typing-svg)
+
 Please run the following beforehand:
 ```
 curl -O https://raw.githubusercontent.com/JayeshRocks/GeyserMC/main/packagesIU.sh
@@ -50,7 +51,6 @@ curl -O https://raw.githubusercontent.com/JayeshRocks/GeyserMC/main/javaIU.sh
 chmod +x javaIU.sh
 ./javaIU.sh
 ```
-
 ---
 
 ### Geyser Standalone
