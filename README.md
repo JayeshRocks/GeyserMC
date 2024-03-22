@@ -38,9 +38,13 @@ Click to redirect to the official [Termux Official GitHub Respository](https://g
 
 Click to redirect to the official [Termux Official GitHub Download(s)](https://github.com/termux/termux-app/releases)
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
+---
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Setup+and+usage+😀)](https://git.io/typing-svg)
 ## Please run the following beforehand:
 ```
 
 ```
+---
 ### Geyser Standalone
+
